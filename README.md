@@ -1,5 +1,7 @@
 # HTML & CSS Mini Projects 🎨
 
+🔗 **Live Demo:** [metasaumil.github.io/HTML-CSS](https://metasaumil.github.io/HTML-CSS/)
+
 This repository contains beginner-friendly projects built while following tutorials from **[HuXn WebDev](https://www.youtube.com/watch?v=bWACo_pvKxg&list=PLSDeUiTMfxW6VChKWb26Z_mPR4f6fAmMV)**.
 
 I wrote the code line by line, understood the concepts, and made **key custom changes** to experiment and improve.
